@@ -1,26 +1,26 @@
 {
-  "version": "v2026.06.06.0329-release",
-  "releaseTag": "v2026.06.06.0329-release",
-  "commit": "18c388cddddd626eb783dc3a044e06c47bf7d9b6",
-  "generatedAt": "2026-06-06T03:40:49Z",
+  "version": "v2026.06.06.0351-release",
+  "releaseTag": "v2026.06.06.0351-release",
+  "commit": "68152cfa38cab03f8a437b45316e1abc7f9df40f",
+  "generatedAt": "2026-06-06T03:54:02Z",
   "assets": {
     "windows": {
-      "x64": "ssbh-v2026.06.06.0329-release-win-x64.exe",
-      "x64Sha256": "918c9299fa61ccfda20f4fb78bc79724d1404a7952abd7b44af0f216be14e92c",
+      "x64": "ssbh-v2026.06.06.0351-release-win-x64.exe",
+      "x64Sha256": "7d8f59c95842266c58cb78641bde939ddae8f65caeb391765c0cf6b7efcadc95",
       "x64Size": 5805568
     },
     "linux": {
-      "x86_64": "ssbh-v2026.06.06.0329-release-linux-x86_64.AppImage",
-      "x86_64Sha256": "e8ac04702c5b1765852394cc248a5547583703b7c5c60f48f93a6103d63a43d7",
+      "x86_64": "ssbh-v2026.06.06.0351-release-linux-x86_64.AppImage",
+      "x86_64Sha256": "021ad922a2be9336a287426c3fbdee673e010ce437cfa80b3f4171de097440c1",
       "x86_64Size": 5701784
     },
     "mac": {
-      "x64": "ssbh-v2026.06.06.0329-release-mac-x64.dmg",
-      "x64Sha256": "47205389694344075fdee6d5ac33cb5355c401e4dc1bf8ba22a0568cb0118a34",
-      "x64Size": 3017261,
-      "arm64": "ssbh-v2026.06.06.0329-release-mac-arm64.dmg",
-      "arm64Sha256": "386e8c58dfd13ac224397a4afae135fdc61824ab06e8e00a253078eb5e1c6267",
-      "arm64Size": 2821002
+      "x64": "ssbh-v2026.06.06.0351-release-mac-x64.dmg",
+      "x64Sha256": "b8ade6d2d51ec7fa64dd034a8e023799a63890fb4939c0cf2fe3d1e78e07fbcc",
+      "x64Size": 3017265,
+      "arm64": "ssbh-v2026.06.06.0351-release-mac-arm64.dmg",
+      "arm64Sha256": "b4066f57cf14092561dc6da25764762a7c4667b5466ec3679eaee3d6419c8c33",
+      "arm64Size": 2820158
     }
   }
 }
