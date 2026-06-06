@@ -1,24 +1,26 @@
 {
-    "version": "0.0.0",
-    "generatedAt": "2026-06-05T00:00:00Z",
-    "assets": {
-        "windows": {
-            "x64": "",
-            "x64Sha256": "",
-            "x64Size": 0
-        },
-        "linux": {
-            "x86_64": "",
-            "x86_64Sha256": "",
-            "x86_64Size": 0
-        },
-        "mac": {
-            "x64": "",
-            "x64Sha256": "",
-            "x64Size": 0,
-            "arm64": "",
-            "arm64Sha256": "",
-            "arm64Size": 0
-        }
+  "version": "v2026.06.06.0329-release",
+  "releaseTag": "v2026.06.06.0329-release",
+  "commit": "18c388cddddd626eb783dc3a044e06c47bf7d9b6",
+  "generatedAt": "2026-06-06T03:40:49Z",
+  "assets": {
+    "windows": {
+      "x64": "ssbh-v2026.06.06.0329-release-win-x64.exe",
+      "x64Sha256": "918c9299fa61ccfda20f4fb78bc79724d1404a7952abd7b44af0f216be14e92c",
+      "x64Size": 5805568
+    },
+    "linux": {
+      "x86_64": "ssbh-v2026.06.06.0329-release-linux-x86_64.AppImage",
+      "x86_64Sha256": "e8ac04702c5b1765852394cc248a5547583703b7c5c60f48f93a6103d63a43d7",
+      "x86_64Size": 5701784
+    },
+    "mac": {
+      "x64": "ssbh-v2026.06.06.0329-release-mac-x64.dmg",
+      "x64Sha256": "47205389694344075fdee6d5ac33cb5355c401e4dc1bf8ba22a0568cb0118a34",
+      "x64Size": 3017261,
+      "arm64": "ssbh-v2026.06.06.0329-release-mac-arm64.dmg",
+      "arm64Sha256": "386e8c58dfd13ac224397a4afae135fdc61824ab06e8e00a253078eb5e1c6267",
+      "arm64Size": 2821002
     }
+  }
 }
