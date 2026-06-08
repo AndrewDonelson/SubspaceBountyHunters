@@ -1,33 +1,33 @@
 {
-  "version": "v2026.06.06.2258-release",
-  "releaseTag": "client-v2026.06.06.2258-release",
-  "generatedAt": "2026-06-07T05:30:03Z",
+  "version": "v2026.06.07.2351-release",
+  "releaseTag": "client-v2026.06.07.2351-release",
+  "generatedAt": "2026-06-08T09:01:18Z",
   "assets": {
     "windows": {
       "x64": "ssbh-client-win-x64.exe",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-win-x64.exe",
-      "x64Sha256": "17f492897ed1ba2eac1b25b668f7eace242049b9bbb94954522420505c2fe400",
-      "x64Size": 7052288
+      "x64Sha256": "fef044c08222d70f331f0ba4a731ebcc3f41a41fcec3bb321e69cb7254020485",
+      "x64Size": 7057920
     },
     "linux": {
       "x86_64": "ssbh-client-linux-x86_64.AppImage",
       "x86_64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-x86_64.AppImage",
-      "x86_64Sha256": "5d019ef19332686a33e14a16347e5a8847b19c7a767b4a464547c40ae83b7e9d",
+      "x86_64Sha256": "2a4dae39686009a4f212f6a6763957aa74420e61f7fbbfd99d5a35545af5347a",
       "x86_64Size": 3987960,
       "arm64": "ssbh-client-linux-arm64.AppImage",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-arm64.AppImage",
-      "arm64Sha256": "d7f5f4d9f270e94697c50ca5f70d47cc5ba4fe41be14b35f2d209e74df063cc1",
-      "arm64Size": 3717640
+      "arm64Sha256": "4df4995d609914f48e30c778052a9610daa123c817494c0572ca7a12edf5ab12",
+      "arm64Size": 3721736
     },
     "mac": {
       "x64": "ssbh-client-mac-x64.app.zip",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-x64.app.zip",
-      "x64Sha256": "ce5315555698048a0f32818eb65c57a2e7abd50d997696802bd3b231286c7e96",
-      "x64Size": 3646623,
+      "x64Sha256": "7b362abe1f690e767f6d5b3d9d68052ba183ea8f0506bddc45f6545a5e91f09a",
+      "x64Size": 3647851,
       "arm64": "ssbh-client-mac-arm64.app.zip",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-arm64.app.zip",
-      "arm64Sha256": "189018ac31aeb06762c4d2d5c30f6fb6309198d1035bd6c3d06415538c12137f",
-      "arm64Size": 3483710
+      "arm64Sha256": "2caade19589520d7036a1586b4b4631753b6bf8e979efab57df32f416203dd8e",
+      "arm64Size": 3485188
     }
   }
 }
