@@ -1,33 +1,33 @@
 {
   "version": "v2026.06.09.1922-release",
   "releaseTag": "client-v2026.06.09.1922-release",
-  "generatedAt": "2026-06-10T01:30:57Z",
+  "generatedAt": "2026-06-10T01:37:18Z",
   "assets": {
     "windows": {
       "x64": "ssbh-client-win-x64.exe",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-win-x64.exe",
-      "x64Sha256": "d0a5defb602301935180d5f8dd34af3430e340f4d49d3503bbf79042556bcd99",
+      "x64Sha256": "fbfcbf24e8da68355896a3fa97ef6224f8b7c9b6d5200c2a29b51f364bf3ebdb",
       "x64Size": 7073280
     },
     "linux": {
       "x86_64": "ssbh-client-linux-x86_64.AppImage",
       "x86_64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-x86_64.AppImage",
-      "x86_64Sha256": "4bc4d4db2dcc06cbc3a1a756b66f5a30ad501a102863b1fda082ebc488a9e0a2",
+      "x86_64Sha256": "5843ce481735d132be4e835efc54d892cc72faf744dd789d2f2f61456365f7c6",
       "x86_64Size": 3996152,
       "arm64": "ssbh-client-linux-arm64.AppImage",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-arm64.AppImage",
-      "arm64Sha256": "a1fe3ab8dc278de628440ebcf9ee733810d6e06edb81f897ce036d820d784912",
-      "arm64Size": 3729928
+      "arm64Sha256": "3817a1042268a2f7aff0e65ed1453bfc04001526cbf2b9aa1e722feb1373abc1",
+      "arm64Size": 3734024
     },
     "mac": {
       "x64": "ssbh-client-mac-x64.app.zip",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-x64.app.zip",
-      "x64Sha256": "0748ac142b28c8ccf93f1c01649f8f036edade074de1bc43ef3d4705dd0623c4",
-      "x64Size": 3654417,
+      "x64Sha256": "5790c21174281449d348e751e8e0f055428dac7717225dfbabdf0360c62a8a3c",
+      "x64Size": 3654425,
       "arm64": "ssbh-client-mac-arm64.app.zip",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-arm64.app.zip",
-      "arm64Sha256": "c566c1122509d611cf61286b2b6ee8d90fedcda2df9891ca5b439bd790e7d07f",
-      "arm64Size": 3490010
+      "arm64Sha256": "da8f769d4d01ddec2caa556ebfd4769aa9b04b67515592aeb80384ee090ba14c",
+      "arm64Size": 3490012
     }
   }
 }
