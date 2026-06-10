@@ -1,33 +1,33 @@
 {
   "version": "v2026.06.09.2147-release",
   "releaseTag": "client-v2026.06.09.2147-release",
-  "generatedAt": "2026-06-10T05:22:16Z",
+  "generatedAt": "2026-06-10T11:24:39Z",
   "assets": {
     "windows": {
       "x64": "ssbh-client-win-x64.exe",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-win-x64.exe",
-      "x64Sha256": "d64acba0422a34330ecc747f41f35ded759be6189220ea7ec114909efb5e661f",
+      "x64Sha256": "7f613572032db03dd64e3f1aac3d0cc9061efd3947a6b479d6135fda8c7ad91d",
       "x64Size": 7073280
     },
     "linux": {
       "x86_64": "ssbh-client-linux-x86_64.AppImage",
       "x86_64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-x86_64.AppImage",
-      "x86_64Sha256": "95870ab07c36622543b1fd77db2a4aa1854fb3edebcbd51a5b5a377d97cc3ca7",
+      "x86_64Sha256": "789aa84215f3a835bb0da379f7b8b2a838d3cc7b885422f49c030a10c3cb17b0",
       "x86_64Size": 3996152,
       "arm64": "ssbh-client-linux-arm64.AppImage",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-linux-arm64.AppImage",
-      "arm64Sha256": "d0bfc660849a84e0bc2feb33fe953a51fc33a890712d4f62a7a1a497e3157718",
+      "arm64Sha256": "fe2051b58edf9eefc63cc4278c44feb82e522ded0baf259a68f6ecba598eb61e",
       "arm64Size": 3734024
     },
     "mac": {
       "x64": "ssbh-client-mac-x64.app.zip",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-x64.app.zip",
-      "x64Sha256": "611649b287c5d099ef36a57ea480b87aca12173c967e630decccb1555d10d6e6",
-      "x64Size": 3654427,
+      "x64Sha256": "8484b6e7e5f421677df75773c3e9ea505bda0783d733fca1d10d5ba9b201c283",
+      "x64Size": 3654429,
       "arm64": "ssbh-client-mac-arm64.app.zip",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/ssbh-client-mac-arm64.app.zip",
-      "arm64Sha256": "fb231c42b533782873442623cc460dc1b0f4aa37304d11b0d5e3a80525daade6",
-      "arm64Size": 3490009
+      "arm64Sha256": "add809803d78eb6fe9359e7ff84cb6af032f94e00761a8df225a452b0558789c",
+      "arm64Size": 3490008
     }
   }
 }
