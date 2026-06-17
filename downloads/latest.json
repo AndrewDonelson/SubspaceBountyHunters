@@ -1,32 +1,32 @@
 {
-  "version": "v2026.06.15.2045-release",
-  "releaseTag": "client-v2026.06.15.2045-release",
-  "generatedAt": "2026-06-16T02:59:07Z",
+  "version": "v2026.06.17.0802-release",
+  "releaseTag": "client-v2026.06.17.0802-release",
+  "generatedAt": "2026-06-17T14:53:09Z",
   "assets": {
     "windows": {
       "x64": "Windows/x86_64/ssbh-launcher.exe",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Windows/x86_64/ssbh-launcher.exe",
-      "x64Sha256": "a71a1c7b0bdfdba3af55a963139076bf58b9efff340fe6991b6c3567a5897d3c",
+      "x64Sha256": "5b83b5542321faa597c4a9d2ddb37b79f38e1e3a61d2e4c713876020b57017bd",
       "x64Size": 7073792
     },
     "linux": {
       "x86_64": "Linux/x86_64/ssbh-launcher.AppImage",
       "x86_64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Linux/x86_64/ssbh-launcher.AppImage",
-      "x86_64Sha256": "9a1c89e5a7a61bce15bcf45ac06a5452fb58df6fa8f69bd2ef5f09daa68a0816",
+      "x86_64Sha256": "daf039cc7024da227cd50b21f9fadd4f1d68ce7f4aaeceb4d12ff6a15f329b47",
       "x86_64Size": 3992056,
       "arm64": "Linux/arm64/ssbh-launcher.AppImage",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Linux/arm64/ssbh-launcher.AppImage",
-      "arm64Sha256": "d280eac31d1fafff2856c80846a78bbc4b71272d6c4e4eef288b4597416ff495",
+      "arm64Sha256": "17f3b2860f28421fa64b4a56b45f130d5f2f6b849faa9a49d4fc4ecf8b3ae028",
       "arm64Size": 3729928
     },
     "mac": {
       "x64": "macOS/x86_64/ssbh-launcher.app.zip",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/macOS/x86_64/ssbh-launcher.app.zip",
-      "x64Sha256": "55ed3321a5f288d1c15e7afbf31720d7cc3e3609db21ee4de52b8e990ce21806",
+      "x64Sha256": "6ec13a3591f22815734f14101f14798c71c1b0df07cab02db0963bbedc24fbc1",
       "x64Size": 3654177,
       "arm64": "macOS/arm64/ssbh-launcher.app.zip",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/macOS/arm64/ssbh-launcher.app.zip",
-      "arm64Sha256": "04511d335955885674de981633aded2c09d353b6bcc058cb95aa5a35f2b83835",
+      "arm64Sha256": "b4d9f44d5053827b1be6c6bc48f2390c1e01e4e67b10458e196c4a5bfea00182",
       "arm64Size": 3490215
     }
   }
