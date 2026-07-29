@@ -1,33 +1,33 @@
 {
   "version": "v2026.07.28.2136-release",
   "releaseTag": "client-v2026.07.28.2136-release",
-  "generatedAt": "2026-07-29T04:20:11Z",
+  "generatedAt": "2026-07-29T04:41:56Z",
   "assets": {
     "windows": {
       "x64": "Windows/x86_64/ssbh-launcher.exe",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Windows/x86_64/ssbh-launcher.exe",
-      "x64Sha256": "c6666d193a3ba4be59e60357bcbb5e3359295d2e0d6f416c8d1eeba285fa43b9",
+      "x64Sha256": "f51887b90b007bb027a877743c69cdf678d6ddc0a7b7b9f3823f0ec3cfd52916",
       "x64Size": 7078912
     },
     "linux": {
       "x86_64": "Linux/x86_64/ssbh-launcher.AppImage",
       "x86_64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Linux/x86_64/ssbh-launcher.AppImage",
-      "x86_64Sha256": "d9f9d33e51c8ebff3f774732180ab8831ee939a05e903c732d58a36c76f202cf",
+      "x86_64Sha256": "c5cf4b7825f6d56b56daa0e29ab9186b610d2ba8ec05e761ca6324e7fe2a27bd",
       "x86_64Size": 3897848,
       "arm64": "Linux/arm64/ssbh-launcher.AppImage",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/Linux/arm64/ssbh-launcher.AppImage",
-      "arm64Sha256": "969ac06a30bca7b2dc4d596341c022a66a8d46268bbb4e98a6ea2363eb057308",
+      "arm64Sha256": "940c2018dc81a76260806cae344bae0bc3db786cc36575c5ab796cd7fe765c4c",
       "arm64Size": 3648008
     },
     "mac": {
       "x64": "macOS/x86_64/ssbh-launcher.app.zip",
       "x64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/macOS/x86_64/ssbh-launcher.app.zip",
-      "x64Sha256": "487277f7af36016934e1e1a33b3dcf33b5f0f3dc81a67d71106a9a80a754d952",
-      "x64Size": 3655846,
+      "x64Sha256": "c5dc0d96982f7fa2b335bb0cb28765738f99c9bb306960016284a7610e4dd903",
+      "x64Size": 3655845,
       "arm64": "macOS/arm64/ssbh-launcher.app.zip",
       "arm64Url": "https://raw.githubusercontent.com/AndrewDonelson/SubspaceBountyHunters/main/downloads/macOS/arm64/ssbh-launcher.app.zip",
-      "arm64Sha256": "fecda49ae61560765e2ddfa353bc1332aed4644cf513c15ac9bf3b1d23e6f246",
-      "arm64Size": 3492037
+      "arm64Sha256": "e3308bd1fea45f6f2b206e027aa4bb9d1e903b98b0902b348964acd09f208dfd",
+      "arm64Size": 3492036
     }
   }
 }
